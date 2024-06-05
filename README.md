@@ -12,7 +12,7 @@
 
 | •| • | • | 
 | - | - | - |
-| ? | ? | ? |
+| ![no front stack](https://github.com/smnandre/symfonyonline-june-2024/blob/939d330d989108512a96b262dc4d81ae0a2a6a22/images/SymfonyOnline-June-2024-1.png) | ![live-action](https://github.com/smnandre/symfonyonline-june-2024/blob/939d330d989108512a96b262dc4d81ae0a2a6a22/images/SymfonyOnline-June-2024-6.png?raw=true) | ![two questions](https://github.com/smnandre/symfonyonline-june-2024/blob/939d330d989108512a96b262dc4d81ae0a2a6a22/images/SymfonyOnline-June-2024-3.png?raw=true) |
 
 Slides are available as PDF export in this repository: [SymfonyOnline-June-2024.pdf](https://github.com/smnandre/symfonyonline-june-2024/blob/632c7c492b0cb1f432f45155bb7de526efad80c6/SymfonyOnline-June-2024.pdf)
 
@@ -20,7 +20,7 @@ Slides are available as PDF export in this repository: [SymfonyOnline-June-2024.
 
 | • | • | • |
 | - | - | - |
-| ? | ? | ? |
+| ![elephant-desk](https://github.com/smnandre/symfonyonline-june-2024/blob/939d330d989108512a96b262dc4d81ae0a2a6a22/images/SymfonyOnline-June-2024-5.png?raw=true) | ![panda-elephant](https://github.com/smnandre/symfonyonline-june-2024/blob/939d330d989108512a96b262dc4d81ae0a2a6a22/images/SymfonyOnline-June-2024-4.png?raw=true) | ![live-component-image](https://github.com/smnandre/symfonyonline-june-2024/blob/939d330d989108512a96b262dc4d81ae0a2a6a22/images/SymfonyOnline-June-2024-2.png?raw=true) |
  
 ## Feedback
 
